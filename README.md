@@ -1,0 +1,2 @@
+# rain
+colorscheme; theme: rain
