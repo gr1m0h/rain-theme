@@ -23,3 +23,5 @@ WIP
 | Warning2 | `#ffb870` | `255 184 112` | <img src="imgs/warning2.png" alt="drawing" height="25" width="25"/> |
 
 ## License
+
+[LICENSE](LICENSE) (c) gr1m0h
