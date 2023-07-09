@@ -1,5 +1,11 @@
 # Rain Theme
 
+## Example
+
+example javascript
+
+<img src="imgs/example_js.png" alt="drawing" height="750" width="500">
+
 ## Install
 
 WIP
