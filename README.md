@@ -24,4 +24,4 @@ WIP
 
 ## License
 
-[LICENSE](LICENSE) (c) gr1m0h
+[LICENSE](LICENSE) (c) 85clab0
