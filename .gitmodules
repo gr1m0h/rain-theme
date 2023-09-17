@@ -4,3 +4,6 @@
 [submodule "themes/rain-blender"]
 	path = themes/rain-blender
 	url = https://github.com/85clab0/rain-blender.git
+[submodule "themes/rain-unity"]
+	path = themes/rain-unity
+	url = https://github.com/85clab0/rain-unity.git
