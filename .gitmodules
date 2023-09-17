@@ -4,3 +4,6 @@
 [submodule "themes/themes/rain-fzf"]
 	path = themes/themes/rain-fzf
 	url = https://github.com/85clab0/rain-fzf.git
+[submodule "themes/themes/rain-blender"]
+	path = themes/themes/rain-blender
+	url = https://github.com/85clab0/rain-blender.git
