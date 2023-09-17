@@ -7,3 +7,9 @@
 [submodule "themes/rain-unity"]
 	path = themes/rain-unity
 	url = https://github.com/85clab0/rain-unity.git
+[submodule "themes/rain-starship"]
+	path = themes/rain-starship
+	url = https://github.com/85clab0/rain-starship.git
+[submodule "themes/rain-slack"]
+	path = themes/rain-slack
+	url = https://github.com/85clab0/rain-slack.git
