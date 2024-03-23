@@ -1,15 +1,15 @@
 [submodule "themes/rain-fzf"]
 	path = themes/rain-fzf
-	url = https://github.com/85clab0/rain-fzf.git
+	url = https://github.com/gr1m0h/rain-fzf.git
 [submodule "themes/rain-blender"]
 	path = themes/rain-blender
-	url = https://github.com/85clab0/rain-blender.git
+	url = https://github.com/gr1m0h/rain-blender.git
 [submodule "themes/rain-unity"]
 	path = themes/rain-unity
-	url = https://github.com/85clab0/rain-unity.git
+	url = https://github.com/gr1m0h/rain-unity.git
 [submodule "themes/rain-starship"]
 	path = themes/rain-starship
-	url = https://github.com/85clab0/rain-starship.git
+	url = https://github.com/gr1m0h/rain-starship.git
 [submodule "themes/rain-slack"]
 	path = themes/rain-slack
-	url = https://github.com/85clab0/rain-slack.git
+	url = https://github.com/gr1m0h/rain-slack.git
