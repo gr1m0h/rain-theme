@@ -33,11 +33,11 @@ Rain Theme brings the tranquil atmosphere of rainfall to your development enviro
 
 ### 🌙 Dark Version (Night Rain)
 
-![Dark Theme Screenshot](assets/dark-preview.png)
+![fzf dark](imgs/dark_fzf.png)
 
 ### ☀️ Light Version (Day Rain)
 
-![Light Theme Screenshot](assets/light-preview.png)
+![fzf light](imgs/light_fzf.png)
 
 ---
 
