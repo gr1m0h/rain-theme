@@ -27,7 +27,7 @@ Rain Theme brings the tranquil atmosphere of rainfall to your development enviro
 | Variant   | Background | Foreground | Blue      | Green     | Red       | Yellow    |
 | --------- | ---------- | ---------- | --------- | --------- | --------- | --------- |
 | **Dark**  | `#32324B`  | `#F8F8F2`  | `#8BE9FD` | `#A8FFDE` | `#FF5555` | `#F1FA8C` |
-| **Light** | `#FAFBFC`  | `#1F2328`  | `#0366D6` | `#28A745` | `#D73A49` | `#B08800` |
+| **Light** | `#FAFBFC`  | `#1F2328`  | `#0366D6` | `#28A745` | `#D73A49` | `#FF841F` |
 
 ## 📸 Screenshots
 
